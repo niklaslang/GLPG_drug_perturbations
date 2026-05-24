@@ -1,5 +1,7 @@
 ## Disease severity-resolved single-cell atlas of murine bleomycin-induced lung fibrosis
 
+![Cover](cover_image.png)
+
 This repository hosts code, notebooks, and conda environments used for the analysis.
 
 ## Structure
@@ -18,7 +20,7 @@ This repository hosts code, notebooks, and conda environments used for the analy
 
 ## Data 
 
-Raw data will be deposited at the public GEO data repository upon publication. Processed data will be uploaded to Zenodo.
+Processed count matrices are available at [Zenodo](https://doi.org/10.5281/zenodo.17876797) and the full dataset can be queried via our publicly available data exploration [webtool](https://hschillerlabshiny.shinyapps.io/galapagos_dataset_explorer1/).
 
 Publicly available data analysed in this study can be accessed as described below:
 
